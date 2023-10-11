@@ -347,7 +347,7 @@
    "type": "Link"
   }
  ],
- "modified": "2023-05-24 14:58:44.010999",
+ "modified": "2023-10-09 14:43:36.516455",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Settings",
@@ -358,7 +358,7 @@
  "quick_lists": [],
  "restrict_to_domain": "",
  "roles": [],
- "sequence_id": 18.0,
+ "sequence_id": 6.0,
  "shortcuts": [
   {
    "icon": "setting",
